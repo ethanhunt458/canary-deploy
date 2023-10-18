@@ -5,7 +5,7 @@
 #************************************************************
 
 # TODO - Populate this value from the *actual* replica count
-REPLICA_COUNT=4
+REPLICA_COUNT=1
 # Release color will be BLUE
 RELEASE_COLOR="#0000FF"
 
