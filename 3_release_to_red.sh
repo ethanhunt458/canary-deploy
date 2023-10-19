@@ -8,7 +8,7 @@
 #************************************************************
 
 # TODO - Populate this value from the *actual* replica count
-REPLICA_COUNT=3
+REPLICA_COUNT=4
 # New release color will be RED
 RELEASE_COLOR="#FF0000"
 
