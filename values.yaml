@@ -3,4 +3,4 @@
 deployment:
   - track: release
     color: "#0000FF"
-    replicas: 2
+    replicas: 4
